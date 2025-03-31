@@ -46,5 +46,5 @@ tgcrypto==1.2.5
 unidecode
 youtube-search
 youtube-search-python
-Pyrofork
+pyrofork
 git+https://github.com/yt-dlp/yt-dlp
